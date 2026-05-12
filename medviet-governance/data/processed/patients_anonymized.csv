@@ -1,0 +1,201 @@
+patient_id,ho_ten,cccd,ngay_sinh,so_dien_thoai,email,dia_chi,benh,ket_qua_xet_nghiem,bac_si_phu_trach,ngay_kham
+bdd640fb-0667-4ad1-9c80-317fa3b1799d,Khoa Hoàng Dương,307768345057,1954,0957298963,patient_0000@anon.medviet.local,"2 Trần Dãy, JaneThành phố, 405510",Tiểu đường,5.37,Huy Văn Vũ,31/01/2026
+562b0f79-c374-49ee-b50b-ea63371ecd7b,Mai Mai,030029430232,1948,0912226902,patient_0001@anon.medviet.local,"8 Dương Số, Thị xã JohnXã, 321941",Huyết áp cao,9.14,Hải Xuân Trần,20/01/2026
+a2bc372f-7412-4293-8729-4739614ff3d7,Hưng Nguyễn,711547481914,1963,0539887444,patient_0002@anon.medviet.local,"182 Vũ Dãy, Thành phố JohnHuyện, 581376",Khỏe mạnh,9.09,Bác Châu Dương,03/03/2026
+654821d0-7fcd-4eb1-a7ca-d415366eb16f,Anh Trọng Mai,944834849852,1968,0836082998,patient_0003@anon.medviet.local,"1 Trần Làng, Thành phố JohnHuyện, 641135",Tiểu đường,8.28,Cô Linh Lê,18/02/2026
+f143262f-dc5c-4eed-8da0-365bf89897b9,Thành Mai,777614085147,1971,0737808866,patient_0004@anon.medviet.local,"91 John Số, JohnThị xã, 838294",Tim mạch,7.17,Tú Trần,05/04/2026
+5cec4eb5-edd9-4831-9ca3-5cfb04fc6d82,Bác Quang Phạm,105148995502,1968,0548244429,patient_0005@anon.medviet.local,"649 Jane Hẻm, JaneHuyện, 391480",Huyết áp cao,5.47,Khoa Đặng,27/03/2026
+1efa2197-7394-488f-847f-d9b4e64d1bcb,Kim Văn Bùi,451255031583,1938,0967890332,patient_0006@anon.medviet.local,"763 Lê Số, Huyện JaneQuận, 942290",Huyết áp cao,5.01,Ông Thành Vũ,06/02/2026
+6e595ed3-a8b3-47fa-98d0-752b1825bc54,Bà Nhật Hoàng,025983831284,1942,0570899273,patient_0007@anon.medviet.local,"770 Jane Đường, JaneXã, 632401",Tiểu đường,9.94,Phương Bảo Trần,03/01/2026
+c0e9ab30-ed26-42e9-97e0-11b7f8102383,Cô Hồng Phạm,157461626069,2000,0710555383,patient_0008@anon.medviet.local,"92 Dương Hẻm, JanePhường, 876427",Tiểu đường,9.39,Chị Hương Bùi,12/01/2026
+80bacd64-7a0e-4fea-958c-a9ba0cd620c2,Cô Phương Bùi,129897793304,1960,0779501263,patient_0009@anon.medviet.local,"83 Trần Tổ, Quận JaneQuận, 328591",Huyết áp cao,8.69,Nhật Vũ,26/01/2026
+750cab75-4ccc-4bc2-a53f-8a28abf3e3fc,Quý cô Hương Phạm,058822623240,1948,0721472731,patient_0010@anon.medviet.local,"34 John Ngõ, Quận JohnThị xã, 665660",Tiểu đường,4.04,Anh Tùng Mai,31/01/2026
+35ebd32d-9ad6-40ab-8821-2ddb45b89cd9,Anh Khoa Trần,877821783497,2001,0747138594,patient_0011@anon.medviet.local,"15 Jane Số, JohnQuận, 438357",Tiểu đường,3.81,Minh Đặng,25/01/2026
+e623a689-5d59-4d2a-8eea-04e70ab54bde,Bác Trọng Nguyễn,550058948212,1963,0593535435,patient_0012@anon.medviet.local,"8 Nguyễn Khu, JanePhường, 311964",Huyết áp cao,11.82,Thành Hải Đặng,31/01/2026
+61ee411a-1bac-47a7-b386-f7a4c991603f,Phúc Hoàng,396439661934,1965,0840411425,patient_0013@anon.medviet.local,"86 John Khu, JohnQuận, 572326",Tim mạch,8.51,Tú Bùi,23/01/2026
+2db69edb-42de-4fcc-b86c-2ca2e08596db,Tú Hải Phạm,299200475312,1994,0844303871,patient_0014@anon.medviet.local,"615 John Tổ, Thị xã JaneThị xã, 365058",Tiểu đường,4.55,Anh Minh Mai,02/03/2026
+6703b636-5380-4904-a88c-7015aab97e49,Cô Hà Trần,980602932126,1961,0361956345,patient_0015@anon.medviet.local,"66 Jane Làng, JohnThị xã, 311262",Tim mạch,4.6,Anh Mai Mai,02/02/2026
+83f4a9a9-48a6-49d0-95b5-2908a8aa7158,Chị Ánh Bùi,810950871031,1965,0924211149,patient_0016@anon.medviet.local,"60 Jane Làng, Thành phố JanePhường, 776753",Tim mạch,3.65,Quý cô Ngọc Trần,12/02/2026
+b227462c-f53d-4330-8dda-24ba2d06e8cf,Khoa Mai,500829572555,1951,0994078749,patient_0017@anon.medviet.local,"248 Bùi Khu, Huyện JaneHuyện, 347206",Khỏe mạnh,5.0,Khoa Hoàng Vũ,05/04/2026
+709b7d97-464c-44af-bd3f-3799a07295e9,Minh Lê,103126060152,1967,0849648051,patient_0018@anon.medviet.local,"63 Phạm Hẻm, JaneQuận, 393264",Huyết áp cao,4.47,Chi Vũ,04/01/2026
+9360715f-c3fe-4183-a172-b725db52ca58,Bà Thành Mai,477693633486,1976,0703146652,patient_0019@anon.medviet.local,"444 Dương Làng, Huyện JaneThành phố, 600543",Huyết áp cao,5.92,Hoàng Thế Vũ,25/01/2026
+06e745f9-88bc-439c-9f4c-3b79fb10987f,Duyên Nguyễn,192260112551,1993,0594171986,patient_0020@anon.medviet.local,"509 John Số, JohnThị xã, 123170",Tiểu đường,5.96,Thành Hoàng,07/05/2026
+a6d964a3-f510-4b53-87fe-e39f1190f938,Hà Xuân Nguyễn,930163850070,1969,0748004208,patient_0021@anon.medviet.local,"807 John Làng, JohnThị xã, 921052",Tim mạch,10.33,Vân Lê,21/01/2026
+4fdc6e1b-edcb-4cb6-8692-dc639424aed5,Ngọc Dương,373081669449,1968,0586124100,patient_0022@anon.medviet.local,"483 Jane Khu, Thị xã JohnThị xã, 172517",Tim mạch,10.56,Quý ông Vũ Bùi,04/02/2026
+a6846099-f729-4951-8591-31d2bbda0242,Anh Trọng Vũ,188970290161,2001,0971524797,patient_0023@anon.medviet.local,"9 Jane Tổ, Huyện JaneThị xã, 377801",Tiểu đường,6.81,Bà Yến Vũ,10/03/2026
+4797b2c9-5720-4246-8223-623bcc3ebdde,Bà Thảo Hoàng,353126249929,2005,0590353112,patient_0024@anon.medviet.local,"1 Mai Tổ, Thành phố JohnQuận, 902655",Tim mạch,9.32,Thành Quang Bùi,13/03/2026
+58007c02-87ea-4ff5-8db0-674679279973,Ánh Mai,064032306464,1997,0761036800,patient_0025@anon.medviet.local,"0 John Ngõ, JohnXã, 236435",Khỏe mạnh,8.48,Bác Bảo Bùi,03/01/2026
+4639447b-2067-4dac-88bd-13d1b540b30e,Nhật Đức Nguyễn,024313831887,1975,0394727372,patient_0026@anon.medviet.local,"7 John Số, Huyện JohnQuận, 107698",Tim mạch,9.5,Cô Hà Trần,30/01/2026
+f2f9e5fa-9016-4161-8fa7-01cd2631d00b,Cô Thành Hoàng,231985656059,1951,0520490043,patient_0027@anon.medviet.local,"78 Jane Làng, JohnPhường, 969464",Tim mạch,7.39,Thành Bảo Nguyễn,03/02/2026
+00af5b3a-2812-459a-9337-739e8d4f5d27,Tú Tấn Bùi,591938154762,1939,0821587311,patient_0028@anon.medviet.local,"60 John Tổ, JohnXã, 900452",Tiểu đường,3.75,Lâm Hoàng Bùi,12/01/2026
+9854ce4e-4ebf-45c3-8ae9-b4a72a79ea68,Cô Duyên Hoàng,719306647518,1999,0526967478,patient_0029@anon.medviet.local,"7 John Ngõ, Quận JaneQuận, 550350",Tiểu đường,5.68,An Trần,22/04/2026
+2cd94cbb-c19a-458c-835b-1c8c0a4c9f7f,Hưng Quang Vũ,700008127601,1994,0930966494,patient_0030@anon.medviet.local,"503 Bùi Hẻm, JaneQuận, 925172",Tim mạch,8.56,An Bảo Hoàng,03/03/2026
+f85e06a1-1dad-49b2-92c2-1221409d3602,Khoa Hữu Hoàng,176432551352,1998,0342214399,patient_0031@anon.medviet.local,"03 Hoàng Làng, Thị xã JaneHuyện, 909048",Tim mạch,6.71,Bác Hưng Hoàng,16/02/2026
+8d03c91e-4f8d-4238-a88b-78b5b5b453ca,Thảo Vũ,794787120609,1948,0366458975,patient_0032@anon.medviet.local,"75 Trần Ngõ, JaneThị xã, 520622",Tiểu đường,11.08,Thành Bùi,09/04/2026
+dd30de89-22f2-45f2-a11b-868dbf0d073d,Bà An Bùi,268690366901,1981,0938061040,patient_0033@anon.medviet.local,"702 Jane Ngõ, Thị xã JohnThành phố, 443041",Khỏe mạnh,8.71,Bác Quang Bùi,09/01/2026
+b489d070-7914-48a8-bea4-ff31517400f8,Trọng Bảo Đặng,747852830098,1940,0982972852,patient_0034@anon.medviet.local,"3 John Đường, Huyện JaneThành phố, 149600",Tiểu đường,5.55,Lâm Đức Dương,02/05/2026
+7cea2045-c268-483e-a32f-2e63b7fddd71,Quý cô Chi Nguyễn,931513987880,1967,0387091719,patient_0035@anon.medviet.local,"835 Phạm Đường, JohnHuyện, 200436",Tim mạch,7.08,Nhiên Bảo Nguyễn,20/04/2026
+2b840c67-2e18-4554-8ae2-8e66ae8a7813,Quý cô Vân Hoàng,894515107800,1968,0930114445,patient_0036@anon.medviet.local,"17 Jane Ngõ, Quận JohnThị xã, 165115",Tim mạch,11.95,Hạnh Bảo Mai,28/02/2026
+da743152-627b-41a1-bfd6-f23232ffe294,Tú Văn Lê,665680930859,1984,0363477101,patient_0037@anon.medviet.local,"Thị xã JohnQuận, 28 John Tổ, 569425",Huyết áp cao,6.55,Chị Hạnh Trần,01/03/2026
+945ef2e4-088a-43ec-b0d9-c9f8c9e26074,Khoa Mai Trần,027173512802,1979,0562993822,patient_0038@anon.medviet.local,"2 Mai Làng, Huyện JanePhường, 382420",Tiểu đường,7.57,Hưng Thế Dương,28/01/2026
+dc322c97-39c1-4262-b76c-8edec1101266,Bà Xuân Phạm,442557191731,1989,0309836337,patient_0039@anon.medviet.local,"6 Đặng Hẻm, Quận JohnThành phố, 735969",Tim mạch,6.99,Quý ông Dũng Mai,04/05/2026
+b379cb1e-e8cd-40cc-b6da-3ca0d2e82f38,Quý cô Xuân Mai,630130904238,1954,0375214724,patient_0040@anon.medviet.local,"706 Jane Làng, JaneQuận, 394211",Khỏe mạnh,9.97,Quý cô Hải Đặng,21/03/2026
+08601833-479d-4cda-b396-ea37f065c817,Quý ông Anh Đặng,548132711569,1967,0560945086,patient_0041@anon.medviet.local,"3 Jane Tổ, Thành phố JohnThị xã, 154622",Khỏe mạnh,10.6,Lâm Mai,10/02/2026
+dea45c19-d024-4d72-b748-967f961d33ba,Anh Khoa Vũ,489557735351,1935,0589387650,patient_0042@anon.medviet.local,"076 Jane Làng, JohnThành phố, 700605",Huyết áp cao,10.1,Chị Duyên Trần,13/04/2026
+79eb4168-1045-46e5-bee3-eb791d181ee9,Khoa Đặng,382724482988,1950,0330570460,patient_0043@anon.medviet.local,"3 Nguyễn Ngõ, Thị xã JohnXã, 764459",Tiểu đường,11.65,Bà Ngọc Mai,25/01/2026
+95da75c1-a211-40f9-9fd3-4579466772ce,Cô Bảo Phạm,946824272810,2004,0966063311,patient_0044@anon.medviet.local,"57 Hoàng Ngõ, Thành phố JaneThành phố, 585976",Tim mạch,6.16,Quý cô Kim Dương,14/03/2026
+ec48bf55-afd3-40c4-a713-582cf41ea3ac,Hồng Nguyễn,246857834094,1948,0594569573,patient_0045@anon.medviet.local,"0 Mai Làng, Huyện JaneHuyện, 110022",Tiểu đường,7.35,Trung Lê,10/03/2026
+36760ce5-81e5-49f6-93f2-77cc1a85910d,Cô Dương Vũ,410651229331,1983,0330478667,patient_0046@anon.medviet.local,"4 John Tổ, JohnHuyện, 778895",Huyết áp cao,5.53,Quý ông Nhiên Trần,14/01/2026
+f8c88fae-a217-4f84-bdb0-25ff2451e5a4,Thành Tấn Vũ,726010191094,1964,0321625887,patient_0047@anon.medviet.local,"27 John Hẻm, Thị xã JohnThành phố, 389559",Khỏe mạnh,4.91,Ông Trọng Bùi,23/02/2026
+1d2324e6-8329-40b7-8143-f426372f871a,Linh Trần,244248086475,2001,0805781101,patient_0048@anon.medviet.local,"224 Hoàng Đường, Quận JaneQuận, 389165",Tim mạch,7.95,Cô Lâm Bùi,14/02/2026
+ab05347f-d556-437d-8f08-81ee8011316b,Minh Tấn Vũ,177467484954,1994,0373574683,patient_0049@anon.medviet.local,"151 Bùi Số, JohnXã, 928449",Tiểu đường,6.84,Tú Đặng,17/02/2026
+862268d1-6683-4107-96c0-44d06f887f28,Cô Bảo Đặng,927543181844,1981,0771368205,patient_0050@anon.medviet.local,"14 Nguyễn Khu, Huyện JohnXã, 118458",Tim mạch,8.75,Khoa Hoàng Đặng,08/05/2026
+c5d95f51-f387-41bd-ad59-72c6134a5a2f,Quang Bùi,261110370821,1996,0532886261,patient_0051@anon.medviet.local,"3 Hoàng Tổ, JohnThị xã, 336800",Tiểu đường,4.94,Nhật Phạm,15/01/2026
+daf481a7-fa34-42e8-9d3f-7d7ea508dc95,Phúc Phạm,773768313939,2004,0883616535,patient_0052@anon.medviet.local,"08 Phạm Khu, Thành phố JaneHuyện, 710235",Tiểu đường,10.05,Thành Nguyễn,18/02/2026
+707df251-fdb1-429e-b010-ed13b526b22d,Cô Lâm Lê,737052793989,1988,0812644481,patient_0053@anon.medviet.local,"60 Jane Số, JohnHuyện, 691762",Tiểu đường,5.44,Ánh Lê,26/01/2026
+15b02530-f020-4992-b576-255e98549f22,Thảo Mai,568125215946,1980,0746959576,patient_0054@anon.medviet.local,"32 Lê Dãy, Quận JohnXã, 850167",Tiểu đường,8.82,Bà Hạnh Mai,13/04/2026
+e05b46c5-5636-4094-a974-31db09a9d1c1,Cô Mai Lê,390746883782,1959,0582451089,patient_0055@anon.medviet.local,"4 John Tổ, JohnPhường, 596826",Tim mạch,11.81,Hoàng Thế Dương,08/04/2026
+297ca4ff-f75d-499f-ab2d-5b0987079ad4,Trung Dương,584759619436,1942,0710252770,patient_0056@anon.medviet.local,"118 Jane Dãy, JaneXã, 190537",Khỏe mạnh,11.51,Bà Ánh Mai,11/01/2026
+3c5bf3a7-5fbb-40b1-8083-89c8657e01c9,Nhật Thị Mai,849926702749,1939,0994923220,patient_0057@anon.medviet.local,"7 Hoàng Làng, JanePhường, 146065",Tim mạch,11.06,Nam Vũ,16/02/2026
+3d0a5f0c-0c39-4ec7-9f31-74054d183eba,Linh Bùi,887906641550,1950,0992029417,patient_0058@anon.medviet.local,"Thành phố JohnXã, 903 Nguyễn Làng, 589641",Huyết áp cao,3.53,Minh Tấn Lê,14/01/2026
+81e03a5e-8b48-4496-86ab-d4e7f4124360,Chị Bảo Bùi,037598087314,1941,0323581199,patient_0059@anon.medviet.local,"23 Phạm Dãy, Huyện JohnThành phố, 302371",Khỏe mạnh,6.54,Quý ông Anh Trần,13/01/2026
+752a7d25-f190-4b7e-86b4-69efb74eba93,Xuân Vũ,393232775282,1941,0330356010,patient_0060@anon.medviet.local,"1 John Tổ, Thành phố JaneQuận, 787579",Tiểu đường,9.13,Chị Vi Hoàng,17/03/2026
+7f072cb9-2fd3-40c0-b945-f2fd56cb1ab0,Quang Thị Nguyễn,846895806591,1946,0917547167,patient_0061@anon.medviet.local,"39 Đặng Đường, Thành phố JaneXã, 311218",Huyết áp cao,11.69,Ngọc Nguyễn,10/03/2026
+46494296-6f58-42c3-bf86-cc319d66e815,Ông Khoa Dương,547676833192,1984,0767991331,patient_0062@anon.medviet.local,"6 Phạm Tổ, JohnXã, 887612",Tim mạch,5.91,Cô Mai Mai,13/04/2026
+a6499cdc-507b-4072-a5e5-8f345df06e8c,Nhật Lê,299820937466,1938,0961195008,patient_0063@anon.medviet.local,"971 Phạm Tổ, JohnPhường, 206321",Tiểu đường,10.46,Bảo Trí Phạm,10/05/2026
+8ccc9cea-109f-48ee-b5a4-720058f0dd23,Hà Thị Đặng,156381560012,1959,0975247098,patient_0064@anon.medviet.local,"86 Trần Tổ, Thị xã JaneQuận, 650149",Huyết áp cao,6.45,Trọng Bảo Vũ,15/01/2026
+a4704d48-5128-49b1-b8ed-e0ca20156a72,Nhật Phú Vũ,308072008818,2005,0564702700,patient_0065@anon.medviet.local,"178 Bùi Ngõ, Huyện JaneQuận, 460816",Tim mạch,9.23,Cô Khoa Lê,18/02/2026
+8d03f17a-f4d3-45c1-a293-19fa3240d7a1,Tú Bùi,876853229797,2007,0391683539,patient_0066@anon.medviet.local,"40 Vũ Làng, JaneQuận, 223358",Tiểu đường,6.75,Nam Hải Dương,26/02/2026
+7ba24588-4d56-4a3d-b4e7-069aa4540937,Bà Mai Đặng,936425401939,1945,0734418146,patient_0067@anon.medviet.local,"8 John Ngõ, JohnHuyện, 325899",Tiểu đường,4.43,Quý cô Xuân Vũ,01/04/2026
+3f779cae-7318-496d-8479-06121f5d988f,Bác Huy Bùi,030906457432,1987,0954387094,patient_0068@anon.medviet.local,"028 John Hẻm, JohnXã, 340962",Tiểu đường,5.69,Trung Phú Lê,10/03/2026
+7eb162f1-4806-4804-8cf0-374c0c74dc0f,Tú Đức Dương,189076838594,1949,0310513846,patient_0069@anon.medviet.local,"06 Dương Ngõ, Thành phố JohnXã, 692686",Tim mạch,7.65,An Lê,24/01/2026
+64d6dfbf-18c0-4e2b-b99f-070420f0156a,Vũ Mai,255336475824,1962,0822909417,patient_0070@anon.medviet.local,"7 Vũ Số, Thị xã JaneThành phố, 805731",Tim mạch,11.95,Nam Phạm,09/04/2026
+7d66971e-8847-4c56-827c-9f8cd40ac5e9,Châu Bùi,012607674759,1985,0368013277,patient_0071@anon.medviet.local,"01 Đặng Ngõ, Thành phố JaneThị xã, 601356",Tiểu đường,8.14,Lâm Tấn Trần,22/04/2026
+30d73df7-1c22-4cea-b355-56a5f2bd92f2,Hương Đặng,538981769784,1992,0889265561,patient_0072@anon.medviet.local,"7 John Đường, Thành phố JohnQuận, 650025",Khỏe mạnh,4.79,Vũ Hoàng Phạm,05/05/2026
+9c2dfa97-43ad-4d62-b17c-fb21cdbc2c1c,Mai Bùi,700172285042,1975,0843023684,patient_0073@anon.medviet.local,"9 John Tổ, JaneQuận, 624086",Khỏe mạnh,6.74,Cô Thành Lê,16/01/2026
+a7edc8d8-713f-4f8c-ac8b-e53758ab4778,Chị Duyên Mai,518998741374,1962,0898469182,patient_0074@anon.medviet.local,"36 Phạm Hẻm, JanePhường, 827161",Huyết áp cao,8.48,Chị Vi Vũ,02/01/2026
+edd97a1a-fa58-4b27-8ce3-e7c3f6eab3a0,Dương Mai,771678869300,2000,0558476134,patient_0075@anon.medviet.local,"751 Dương Khu, Thành phố JanePhường, 781788",Tim mạch,6.91,Nhật Quang Đặng,08/01/2026
+9a4ffc0c-9165-42ed-8c63-6e95025f5543,Trung Thế Hoàng,087826970921,1997,0866708872,patient_0076@anon.medviet.local,"6 John Làng, Thị xã JohnThành phố, 306595",Tim mạch,6.89,Nam Thị Lê,25/03/2026
+669d01ff-1634-425b-93f3-007383e96ef4,Nhật Văn Nguyễn,291348241447,2000,0898825785,patient_0077@anon.medviet.local,"22 John Làng, JohnThị xã, 674163",Khỏe mạnh,4.35,Tú Mai,02/03/2026
+ea87855e-a382-45d3-9e0e-f546b0b6dedf,Ánh Trần,184027680102,1965,0986850475,patient_0078@anon.medviet.local,"08 Jane Làng, Huyện JohnHuyện, 937078",Huyết áp cao,8.45,Hạnh Phạm,09/04/2026
+265cb9d9-8962-4f6e-929c-93b333c08bf1,Khoa Thị Dương,481395653703,1951,0367305254,patient_0079@anon.medviet.local,"80 John Khu, Huyện JanePhường, 157232",Tiểu đường,5.66,Nhật Lê,23/04/2026
+58330b30-6c77-4e95-8b98-1ccd12b2102d,Hồng Hoàng,095348602193,1944,0353872075,patient_0080@anon.medviet.local,"JaneQuận, 23 Jane Dãy, 666095",Tim mạch,4.66,Hải Bảo Dương,15/04/2026
+ba54e920-2099-4180-8762-3997649f7d88,Ông Tú Vũ,390946706236,1975,0923476712,patient_0081@anon.medviet.local,"56 John Làng, JaneXã, 521434",Tim mạch,8.35,Yến Bùi,07/01/2026
+b40a9181-ac09-4db7-9908-6e477249f62c,Cô Hải Phạm,287699399730,1990,0523480540,patient_0082@anon.medviet.local,"574 John Khu, JanePhường, 515182",Khỏe mạnh,9.58,Lâm Phạm,12/01/2026
+e134edfc-9777-4f10-b2d2-393f8e85140d,Phương Dương,344627267628,1941,0938756985,patient_0083@anon.medviet.local,"79 Jane Làng, JohnThành phố, 673381",Tim mạch,11.97,Hải Bùi,17/02/2026
+a58e83dd-548c-4d84-b40d-e04941476506,Quý cô Vi Phạm,678106232596,1947,0515828736,patient_0084@anon.medviet.local,"1 John Khu, Quận JaneThành phố, 555259",Tim mạch,4.94,Chị Linh Bùi,17/02/2026
+345af934-b42a-4d93-9aba-0f15b2149062,Bà Dương Vũ,763961345966,1987,0524820661,patient_0085@anon.medviet.local,"774 Vũ Tổ, Thị xã JanePhường, 925751",Tiểu đường,6.21,Anh Bảo Phạm,04/01/2026
+95831d58-ef4c-4119-8da5-d39b42c21797,Ông Vũ Bùi,234146001127,1980,0504828759,patient_0086@anon.medviet.local,"379 Lê Số, JanePhường, 390993",Tim mạch,5.64,Xuân Hoàng,15/01/2026
+0c6b7074-ab10-4c9b-9168-2e09f1f7d904,Bà Vi Hoàng,045170630573,1966,0983157610,patient_0087@anon.medviet.local,"851 Trần Số, JaneXã, 314847",Huyết áp cao,11.02,Xuân Vũ,04/01/2026
+ac8d6c7d-b2a6-4468-902b-124380913ac1,Anh Châu Dương,577879860893,2006,0765003742,patient_0088@anon.medviet.local,"022 Phạm Số, Thành phố JohnThị xã, 313993",Tiểu đường,3.71,Hà Văn Hoàng,19/01/2026
+8d7dd772-608e-4f5c-a117-727067c0518b,Hạnh Lê,861466056882,1946,0546236501,patient_0089@anon.medviet.local,"7 Bùi Khu, Huyện JaneThành phố, 301607",Tim mạch,8.06,Thành Quang Vũ,08/05/2026
+d9b59f84-edc3-41c3-adea-2d2d086c405f,Quý cô Hồng Đặng,997736282704,1954,0918124762,patient_0090@anon.medviet.local,"66 Trần Ngõ, JaneHuyện, 778472",Huyết áp cao,10.75,Ông Trung Bùi,30/04/2026
+f80b2cea-658e-44a2-9879-cf35f4719986,Chị Nhật Đặng,134425134936,2002,0714297826,patient_0091@anon.medviet.local,"73 John Hẻm, JohnHuyện, 210277",Khỏe mạnh,6.14,Châu Dương,02/01/2026
+5c238d8d-71da-45b9-8eea-9db8f165d779,Lan Mai,869165201033,1947,0709903335,patient_0092@anon.medviet.local,"4 Jane Đường, Huyện JaneThành phố, 406338",Tiểu đường,10.71,Quý cô Linh Vũ,17/02/2026
+af70de70-2b69-495e-8567-1b58926bffa5,Chị Thành Nguyễn,501441808374,1976,0858938147,patient_0093@anon.medviet.local,"7 John Hẻm, JohnQuận, 950752",Khỏe mạnh,11.6,Quang Lê,06/03/2026
+cdd7f460-6140-47d3-9ec4-ea48d773f98d,Quý ông Vũ Mai,737480282645,1953,0917908275,patient_0094@anon.medviet.local,"4 John Tổ, JohnHuyện, 611494",Khỏe mạnh,7.36,Quý ông Trọng Vũ,06/01/2026
+f166cdcf-762c-4fbc-ba2a-a7baf3f81c31,Cô Dương Lê,719445637454,1944,0540574965,patient_0095@anon.medviet.local,"3 John Dãy, JaneXã, 862854",Huyết áp cao,8.78,Minh Đức Mai,15/04/2026
+15c1604f-ea16-4354-a35f-c9c198049562,Bà Hồng Nguyễn,552599400846,1957,0583854643,patient_0096@anon.medviet.local,"17 Bùi Hẻm, Thị xã JohnThị xã, 657252",Khỏe mạnh,7.19,Quý ông Tùng Hoàng,04/04/2026
+eba900e1-6a7d-4d96-8ba1-72331ac3bf31,Quang Lê,162872167117,1982,0918764081,patient_0097@anon.medviet.local,"482 John Làng, Thành phố JohnThành phố, 439335",Tim mạch,10.74,Yến Dương,18/04/2026
+6d268b37-8f52-42d3-94bb-bcf828fea761,Cô Nhật Mai,531095475241,1960,0784365068,patient_0098@anon.medviet.local,"7 Jane Tổ, Thành phố JanePhường, 103159",Tiểu đường,7.12,Chị Ngọc Dương,30/03/2026
+dcd5bfae-abb3-46a7-8329-97801d2c2721,Quý ông Hoàng Lê,626230605944,1988,0793930014,patient_0099@anon.medviet.local,"45 Jane Khu, JohnThành phố, 765470",Tim mạch,8.41,Bác Quang Hoàng,26/04/2026
+6c4c450b-623a-40fc-9326-7d25234b4562,Tùng Thị Lê,244532639386,1958,0757388183,patient_0100@anon.medviet.local,"28 Lê Tổ, JohnPhường, 309325",Huyết áp cao,4.02,Bác Dũng Đặng,28/03/2026
+90bde900-1529-46f5-aad1-1fe87d1b695e,Thành Nguyễn,218778038848,1975,0836436384,patient_0101@anon.medviet.local,"18 Jane Số, Thị xã JohnThành phố, 753481",Tim mạch,11.55,Thành Đức Lê,27/02/2026
+7321a8b2-0840-405a-bfd2-f491dff389aa,Chị Vi Nguyễn,125148957560,1995,0710907692,patient_0102@anon.medviet.local,"02 Lê Đường, JohnHuyện, 900258",Huyết áp cao,10.47,Cô Lâm Trần,02/02/2026
+4aea1b8f-b43c-4e0a-ba9f-c10e52daf681,Quý ông Bảo Phạm,764315564344,2005,0761815047,patient_0103@anon.medviet.local,"647 Vũ Số, Quận JaneXã, 810854",Tiểu đường,9.33,Khoa Văn Đặng,20/03/2026
+b1d81887-4739-4c7b-bff3-0c8d83ff3e96,Cô Vi Dương,411723053579,1935,0848774059,patient_0104@anon.medviet.local,"64 Jane Làng, JohnThị xã, 393814",Tim mạch,5.56,An Nguyễn,20/01/2026
+75a72686-d632-4d31-88ac-ffcfa04d4d14,Cô An Nguyễn,499328576983,1995,0906040149,patient_0105@anon.medviet.local,"3 John Dãy, Thị xã JohnThành phố, 132832",Huyết áp cao,6.31,Hà Trần,15/02/2026
+b4258e19-1758-447e-a7cd-e1436de21429,Phương Hữu Mai,306760128479,2000,0332438378,patient_0106@anon.medviet.local,"18 Dương Làng, Quận JohnThành phố, 189387",Huyết áp cao,9.4,Cô Duyên Nguyễn,13/03/2026
+61fa01ba-231a-47c7-8c9b-ff5ce1887eaf,Hà Trần,500902504269,1936,0930042668,patient_0107@anon.medviet.local,"166 John Tổ, Quận JaneHuyện, 608597",Huyết áp cao,9.99,Chi Nguyễn,06/05/2026
+99db1302-8dab-46d3-bf87-dfc2159152f2,Quý cô Thành Hoàng,836705760656,1963,0810075251,patient_0108@anon.medviet.local,"0 Vũ Khu, JohnHuyện, 102035",Tim mạch,5.8,Bà Vân Mai,15/01/2026
+0387f74d-1149-4096-965d-744f0445c1a8,Chị Mai Mai,641988128178,1943,0845044832,patient_0109@anon.medviet.local,"367 John Khu, Thành phố JohnPhường, 749517",Tim mạch,11.97,Linh Đặng,04/05/2026
+ae59aa52-a65b-422b-95a3-86d9c362a810,Bảo Quang Trần,413488996155,1967,0803095341,patient_0110@anon.medviet.local,"734 Jane Tổ, Quận JohnQuận, 562093",Huyết áp cao,7.68,Hồng Hoàng,25/01/2026
+44cdbfdd-df9b-441e-87f7-bda1bff15840,Cô Hải Vũ,291523681383,1993,0858203530,patient_0111@anon.medviet.local,"227 John Làng, Thành phố JaneXã, 177521",Tiểu đường,9.99,Bà Linh Nguyễn,14/02/2026
+0b461173-00a8-4473-8242-5912bda3c162,Anh Phúc Lê,125923307026,1999,0710171386,patient_0112@anon.medviet.local,"501 Đặng Khu, Huyện JohnPhường, 407433",Tim mạch,11.01,Anh Xuân Vũ,11/04/2026
+66a302d6-f43e-4c48-8bc1-f9e5fb3df063,Lâm Thế Vũ,553800167679,1977,0842749401,patient_0113@anon.medviet.local,"68 Mai Đường, Quận JohnThị xã, 221048",Khỏe mạnh,11.66,Châu Thị Bùi,05/01/2026
+a2cd1590-58af-493c-8aa2-b4c93ba5bd76,Quý cô Ngọc Đặng,991560328586,1986,0561397913,patient_0114@anon.medviet.local,"181 John Hẻm, JaneHuyện, 479747",Khỏe mạnh,3.55,Phúc Nguyễn,21/04/2026
+f6d70248-a995-4cc3-af5b-09a60ff1c51f,Bác Phúc Vũ,185420829111,1978,0731687192,patient_0115@anon.medviet.local,"4 Bùi Số, JaneThị xã, 587368",Khỏe mạnh,4.39,Hưng Quang Phạm,10/02/2026
+43d78f2b-769d-41e3-8eed-412473b0d676,Nhiên Lê,705790103765,1976,0821301303,patient_0116@anon.medviet.local,"55 Jane Ngõ, Thị xã JohnPhường, 436665",Huyết áp cao,5.67,Khoa Xuân Dương,28/01/2026
+d49347fc-0fc9-4d2e-830f-9be91f178f93,Cô Nhật Phạm,188700345766,1986,0361744974,patient_0117@anon.medviet.local,"2 Phạm Tổ, JohnHuyện, 547630",Khỏe mạnh,10.29,Quang Xuân Nguyễn,06/01/2026
+2c3d17e2-6d39-4a75-aee7-0ab261fa8e7a,Hà Hải Dương,970815334991,1973,0520014685,patient_0118@anon.medviet.local,"0 Nguyễn Đường, Thành phố JaneThị xã, 155507",Khỏe mạnh,10.9,Quý cô Ngọc Dương,04/01/2026
+b69f75c5-c82b-41be-a1eb-64e6fd498e20,Kim Hoàng Lê,350645602135,2003,0506260310,patient_0119@anon.medviet.local,"959 John Đường, Thành phố JaneThị xã, 432725",Huyết áp cao,10.11,Quang Phú Phạm,12/02/2026
+cc21cbdb-fb8f-48c4-98b4-8ead93608edf,An Nguyễn,232106132463,1967,0807961089,patient_0120@anon.medviet.local,"5 John Số, Quận JaneHuyện, 685165",Khỏe mạnh,10.4,Châu Văn Dương,03/04/2026
+9d37efb6-eafb-4e90-94ec-84ce002ccb25,Cô Xuân Dương,351454640303,1979,0759857485,patient_0121@anon.medviet.local,"421 Lê Làng, JaneXã, 419276",Tiểu đường,11.92,Quý cô Khoa Mai,07/05/2026
+f7ff88d4-b509-408a-ac98-8bca51397c06,Linh Đặng,654281347296,1977,0323934449,patient_0122@anon.medviet.local,"537 John Làng, Thị xã JohnThành phố, 973266",Huyết áp cao,8.61,Quang Mai Dương,04/03/2026
+f68c62e6-e2a4-4909-a2dd-22d52afaab7b,Lâm Văn Mai,380909097496,1996,0357822031,patient_0123@anon.medviet.local,"2 Dương Ngõ, Quận JaneXã, 705228",Tiểu đường,8.53,Kim Vũ,04/04/2026
+a6a5f0ff-93fb-41d0-9d32-6d9cc9ea356a,Anh Bảo Dương,539644242392,1939,0960047823,patient_0124@anon.medviet.local,"828 Jane Đường, Huyện JaneHuyện, 893006",Huyết áp cao,8.19,Ánh Mai,09/02/2026
+b27b7bb4-68c6-40b2-b0a2-cee8f9722cc1,Anh Trọng Phạm,028295216872,1967,0587904425,patient_0125@anon.medviet.local,"31 Nguyễn Số, JohnXã, 183173",Tiểu đường,4.71,Xuân Bùi,16/01/2026
+4ef03f80-1d91-4e39-9801-4004793bed1b,Thảo Hoàng,444439367544,1947,0890581959,patient_0126@anon.medviet.local,"2 Trần Số, Quận JohnThị xã, 884520",Tim mạch,4.66,Tú Bảo Đặng,14/02/2026
+6319629b-d73e-4bb9-8f9c-a17b8db8dadf,Kim Văn Phạm,623878841846,1967,0813638350,patient_0127@anon.medviet.local,"645 Jane Làng, JohnThành phố, 394813",Tiểu đường,7.81,Nam Bùi,26/03/2026
+a091e5b4-d293-4e6e-bf4d-093033b0fb53,Quý ông Minh Đặng,550107631338,1947,0839277908,patient_0128@anon.medviet.local,"96 Phạm Dãy, JaneXã, 506668",Huyết áp cao,5.5,Chị Duyên Vũ,20/01/2026
+891f4683-de12-4bf1-893d-6196c926a021,An Bảo Đặng,462336272095,2001,0917840190,patient_0129@anon.medviet.local,"Quận JohnXã, 1 Đặng Làng, 591821",Khỏe mạnh,11.54,Quý cô Bảo Đặng,06/04/2026
+1924c644-af52-4666-b239-09f4dbb54645,Thành Bùi,645545467018,1979,0374022950,patient_0130@anon.medviet.local,"5 John Ngõ, JanePhường, 510169",Huyết áp cao,11.19,Mai Bùi,08/02/2026
+08775804-3fde-4814-8ec0-ad4bd6441a9d,Cô Nhật Vũ,582459911599,1972,0889174891,patient_0131@anon.medviet.local,"449 Bùi Đường, Thành phố JohnThành phố, 237312",Tim mạch,5.73,Ông Huy Dương,06/01/2026
+da9408c0-29b4-4cb1-8cb5-ee5c62f5f7c2,Quý cô Ánh Trần,020477166197,1963,0507028118,patient_0132@anon.medviet.local,"876 Dương Đường, Thị xã JohnHuyện, 990080",Huyết áp cao,3.56,Chị Khoa Dương,01/04/2026
+d30608be-8548-467b-ad5c-ba244d59616b,Thành Trần,737291178273,2004,0882409838,patient_0133@anon.medviet.local,"8 John Làng, Huyện JohnXã, 512408",Huyết áp cao,10.66,Hạnh Xuân Phạm,05/01/2026
+4bacbedf-ff5a-429e-bf53-d344a7c854e4,Thành Đức Hoàng,170489722310,1988,0531825088,patient_0134@anon.medviet.local,"863 Jane Ngõ, JohnQuận, 824730",Tiểu đường,4.64,Chị Thành Nguyễn,05/02/2026
+55ec024a-e64b-4b37-ae01-a122f269921c,Ông Trung Đặng,416237972781,1965,0560353150,patient_0135@anon.medviet.local,"3 John Số, JaneXã, 961342",Tiểu đường,5.18,Ngọc Phạm,21/03/2026
+e8184f34-e491-4f7d-91c4-6efcfcb896bb,Cô Hồng Dương,392372535548,1946,0721605665,patient_0136@anon.medviet.local,"33 John Ngõ, JohnThành phố, 761904",Khỏe mạnh,4.36,Anh Tùng Đặng,01/01/2026
+bb0c7919-330c-4ff5-88a5-fa0d09a85dc5,Chị Thảo Trần,697343934837,1961,0588014582,patient_0137@anon.medviet.local,"0 Jane Tổ, JaneXã, 246721",Huyết áp cao,6.67,Kim Trí Trần,08/03/2026
+5bf7dda1-7d7c-49a5-a6c1-1650ff02f5b0,Quý ông Huy Trần,332117124567,1937,0511824918,patient_0138@anon.medviet.local,"2 John Ngõ, JohnXã, 957288",Tiểu đường,5.76,Ánh Hoàng,15/03/2026
+797209c0-40b3-44f8-8c1a-b2c71fa3ed1f,Nhật Tấn Mai,596868030092,1976,0835732494,patient_0139@anon.medviet.local,"103 Bùi Ngõ, Thị xã JohnHuyện, 463083",Tim mạch,10.34,Quý cô Vân Lê,11/03/2026
+290e3e89-4b9c-42f4-a8e5-c8cdb4146e4a,Quang Tấn Bùi,357807179808,1963,0752471555,patient_0140@anon.medviet.local,"7 Jane Ngõ, JaneXã, 141929",Huyết áp cao,7.75,Bà An Trần,20/01/2026
+0a190939-dfc7-4b26-acb9-41fcd02c75f9,Ông Hưng Lê,000941865480,1993,0926084410,patient_0141@anon.medviet.local,"025 John Tổ, JanePhường, 268181",Khỏe mạnh,7.07,Bác Anh Lê,03/04/2026
+e2d903c8-a61a-4d8e-abf7-240fccc62fed,Thành Dương,504685589115,1957,0589328057,patient_0142@anon.medviet.local,"8 Trần Dãy, JohnQuận, 757749",Tiểu đường,9.4,Khoa Thị Nguyễn,08/05/2026
+de4b061e-b45e-4463-832a-09e05071e5f0,Cô Vân Mai,821427080084,1948,0755267605,patient_0143@anon.medviet.local,"367 John Dãy, Huyện JaneHuyện, 597810",Tim mạch,8.18,Quý cô Nhật Phạm,24/02/2026
+8ced4707-3903-4b65-81c6-1eeb0ce3c8c8,Chị Hạnh Hoàng,233999056712,1997,0886603386,patient_0144@anon.medviet.local,"11 John Đường, Quận JohnPhường, 223745",Tiểu đường,5.88,Vũ Mai Bảo Vũ,28/04/2026
+4dfa21be-a335-42c8-9e7b-1e95f692641a,Dũng Xuân Bùi,805853084163,1942,0700119528,patient_0145@anon.medviet.local,"270 Đặng Số, JaneHuyện, 449109",Tim mạch,11.44,Bà Mai Phạm,14/03/2026
+e599bd3c-0bb8-4d38-9b37-ef19b3bc912f,Bác Minh Dương,784385552134,1949,0824740172,patient_0146@anon.medviet.local,"617 John Tổ, JohnHuyện, 283046",Tiểu đường,8.91,Dương Nguyễn,10/01/2026
+d6bca712-6ecc-4931-af70-5d018da03d88,Bà Phương Trần,014559399999,1952,0843051213,patient_0147@anon.medviet.local,"92 Lê Hẻm, Huyện JaneThị xã, 328122",Huyết áp cao,8.16,Phúc Hoàng Dương,02/03/2026
+8db78572-ef7d-4821-bca0-258eb63d65d5,Anh Hoàng Bùi,096007943683,1974,0571905176,patient_0148@anon.medviet.local,"7 Jane Hẻm, JohnThị xã, 166656",Tim mạch,9.52,Hương Đặng,05/01/2026
+ab95c72f-0d95-4af5-a534-21bc6180b78a,Cô Hạnh Lê,643860039877,1957,0325047593,patient_0149@anon.medviet.local,"55 Phạm Số, JohnPhường, 503951",Huyết áp cao,10.5,Anh Vũ Phạm,17/03/2026
+f9cf8499-c9c1-4d45-b4ea-6b976aa415b5,Bảo Đặng,907002409728,1969,0820482239,patient_0150@anon.medviet.local,"JohnThành phố, 7 Phạm Ngõ, 714309",Tiểu đường,6.0,Nam Nguyễn,24/01/2026
+4773e66a-6db2-4020-8a67-01436090103c,Cô Hương Hoàng,898080500334,1970,0886849985,patient_0151@anon.medviet.local,"987 Vũ Hẻm, Thị xã JaneThành phố, 389248",Khỏe mạnh,7.65,Hạnh Trí Đặng,22/03/2026
+1789be63-6746-4743-897b-303d8b074d1a,Thành Hoàng Trần,537605265925,1980,0758929874,patient_0152@anon.medviet.local,"82 Nguyễn Khu, JaneQuận, 731714",Tim mạch,9.94,Hải Hải Nguyễn,14/03/2026
+7210045a-823c-4ef9-8d85-65ce83a9c235,Tùng Mai Nguyễn,302217030983,1978,0835736266,patient_0153@anon.medviet.local,"085 Bùi Số, Quận JaneXã, 543846",Tim mạch,11.85,Khoa Thế Đặng,11/01/2026
+8ede9b46-407d-4aff-8b51-a9112d90e4ee,Nam Trần,505016218796,1970,0740241381,patient_0154@anon.medviet.local,"93 Nguyễn Dãy, Huyện JohnQuận, 740847",Khỏe mạnh,11.85,Châu Đức Hoàng,24/02/2026
+61a451ff-700b-4b43-ad3b-9d13c3e90323,Cô Ngọc Lê,277507516036,1956,0882514767,patient_0155@anon.medviet.local,"9 Đặng Đường, Huyện JaneXã, 790838",Tim mạch,3.62,Kim Tấn Đặng,28/01/2026
+9dec2b83-3885-4f7e-af1a-25a829344e15,Quý cô Vi Lê,480161882065,1960,0761285486,patient_0156@anon.medviet.local,"542 Jane Làng, Thị xã JanePhường, 925413",Tiểu đường,4.73,Bác Anh Bùi,14/01/2026
+7c6166df-515a-4b43-b189-1f48e66e2c11,Dũng Nguyễn,290208175919,1956,0768872684,patient_0157@anon.medviet.local,"65 Jane Ngõ, Quận JanePhường, 721914",Khỏe mạnh,5.34,Hương Phạm,22/01/2026
+14fc3a5d-9b4b-4377-a542-deb92cff45f8,Anh Anh Vũ,134798361921,1962,0809080088,patient_0158@anon.medviet.local,"961 Phạm Dãy, Thị xã JohnQuận, 800713",Khỏe mạnh,8.97,Chị Lan Lê,08/04/2026
+5d264b1b-6593-4659-972e-8c6882aa5c46,Quý cô Lâm Lê,941909609293,1957,0777008165,patient_0159@anon.medviet.local,"038 Hoàng Khu, Quận JaneQuận, 608231",Tim mạch,10.66,Trọng Tấn Hoàng,11/04/2026
+635a11f2-5c7a-483d-8a9d-2704e860bcb1,Quý cô Thảo Bùi,876357682259,1979,0992128296,patient_0160@anon.medviet.local,"01 Jane Số, Thành phố JaneHuyện, 968218",Tiểu đường,9.76,Hải Phạm,27/03/2026
+83b8fa05-13bc-4dc6-bae0-acdb2a6524af,Dương Bùi,506178744227,1960,0536228424,patient_0161@anon.medviet.local,"99 Jane Làng, Thành phố JaneQuận, 680694",Khỏe mạnh,6.84,Khoa Trí Bùi,26/04/2026
+833c8f55-a129-4fa2-a27d-4660293fc266,Hải Dương,767775548269,1955,0372998840,patient_0162@anon.medviet.local,"7 Đặng Hẻm, Quận JohnHuyện, 904008",Khỏe mạnh,10.28,Bảo Trần,24/04/2026
+9f8acdeb-2e8f-45a8-847a-3b7ed209383b,Anh Đức Đặng,221972063986,1997,0835653515,patient_0163@anon.medviet.local,"76 John Tổ, JaneXã, 906247",Tim mạch,8.19,Nhiên Mai Bảo Bùi,09/05/2026
+8a0ea57a-9a7d-409d-a6e8-790b215d3b1f,Nhật Quang Lê,618024250124,2006,0556994297,patient_0164@anon.medviet.local,"83 Phạm Tổ, JohnQuận, 198164",Huyết áp cao,6.93,Huy Đặng,21/03/2026
+b58ac738-0166-4221-b063-ae7f41ff81d1,Anh Hoàng Vũ,429557064898,1951,0775819759,patient_0165@anon.medviet.local,"8 Mai Tổ, JohnThị xã, 421476",Huyết áp cao,10.46,Nhiên Nguyễn,22/03/2026
+7b8301cf-8ebc-4d7e-88a6-5b858d56bff6,Khoa Văn Hoàng,991857889285,2001,0599743617,patient_0166@anon.medviet.local,"090 Jane Số, Thành phố JaneHuyện, 403850",Huyết áp cao,11.04,Bác Minh Phạm,04/05/2026
+d2c0dec2-1751-44d7-8deb-2696015aba1d,Cô Hạnh Hoàng,430825589100,1947,0535659409,patient_0167@anon.medviet.local,"103 Jane Ngõ, JaneHuyện, 537550",Huyết áp cao,5.74,Anh Tú Lê,27/04/2026
+3b4ec9f5-b2cd-4a0a-840c-5cb082b34384,Chị Nhật Trần,560835059116,1935,0805026742,patient_0168@anon.medviet.local,"2 John Hẻm, Huyện JaneXã, 939845",Tiểu đường,7.19,Hải Hữu Hoàng,07/02/2026
+932d1648-6769-40f1-ae01-b9e0746b161a,Vũ Lê,626536401782,1990,0985078432,patient_0169@anon.medviet.local,"327 Jane Đường, Huyện JohnThành phố, 633821",Tiểu đường,6.73,Minh Tấn Trần,04/04/2026
+61f6dfbe-114b-4c79-8200-79f51dc3c26e,Cô Duyên Vũ,476140648733,1991,0912823919,patient_0170@anon.medviet.local,"6 John Ngõ, Quận JanePhường, 604378",Tiểu đường,7.28,Huy Vũ,15/02/2026
+43f19b58-df6c-4d60-bdf7-6a69bc45144a,Cô Ánh Phạm,571359648143,1983,0765774145,patient_0171@anon.medviet.local,"14 John Làng, JohnXã, 506972",Khỏe mạnh,6.46,Yến Phạm,19/03/2026
+20d4ba18-93a0-4478-800b-19de38db128d,Hải Lê,366018581629,2000,0846952328,patient_0172@anon.medviet.local,"626 Phạm Khu, JaneThành phố, 343191",Khỏe mạnh,10.25,Bà Linh Dương,17/04/2026
+78aa16ea-44f7-401a-bcb5-26d7434a130e,Vân Mai,414746900259,1993,0387297668,patient_0173@anon.medviet.local,"42 Trần Đường, Quận JohnXã, 202314",Tim mạch,5.93,Cô Xuân Phạm,02/04/2026
+6be8c756-2d36-426c-827e-789cce40483b,Hải Trí Đặng,686889875716,1978,0959225124,patient_0174@anon.medviet.local,"6 Dương Hẻm, JaneQuận, 958862",Tim mạch,8.18,Hưng Nguyễn,19/04/2026
+41f9994a-cf5d-437f-ae8d-5daa8eb7c306,Thành Tấn Hoàng,146312502025,1983,0940073121,patient_0175@anon.medviet.local,"949 Trần Đường, JohnPhường, 158092",Tiểu đường,4.97,Quang Bùi,16/01/2026
+50405c43-3a6c-4da6-97f7-d71f2978cc73,Ông Phúc Lê,183673360274,1989,0856135230,patient_0176@anon.medviet.local,"JaneThành phố, 84 John Ngõ, 480463",Khỏe mạnh,8.24,Anh Nhiên Hoàng,17/04/2026
+65a29cc8-c55b-495d-86bf-d9c40dc78104,Quý cô Hạnh Trần,361911906507,1956,0311644489,patient_0177@anon.medviet.local,"Huyện JohnPhường, 832 Đặng Khu, 519540",Khỏe mạnh,10.01,Quang Thế Vũ,27/01/2026
+8a0ec018-b297-49b2-b2cf-fcaef833ebfb,Bà Hải Vũ,762015310013,1994,0504279511,patient_0178@anon.medviet.local,"008 Phạm Ngõ, Huyện JohnPhường, 852400",Huyết áp cao,9.1,Chị Hải Hoàng,28/02/2026
+cc476b72-6e31-4234-8410-010802568389,Yến Mai,540078989748,1936,0777586907,patient_0179@anon.medviet.local,"41 John Số, Quận JohnThành phố, 564657",Tiểu đường,6.4,Hải Phú Phạm,22/02/2026
+1186da93-da7d-4c53-b020-cf0669b41194,Dũng Thế Lê,651909893562,1997,0734102483,patient_0180@anon.medviet.local,"67 Jane Hẻm, JaneThị xã, 211274",Huyết áp cao,5.75,Thành Dương,30/01/2026
+578799d9-3799-4376-be5b-3ac903c501fe,Hải Xuân Đặng,786061600987,1998,0385090209,patient_0181@anon.medviet.local,"175 John Dãy, Huyện JaneThành phố, 314121",Tim mạch,4.51,Quang Trần,31/03/2026
+85695f97-180d-4855-855f-fde8bc3e1d19,Nam Nguyễn,975098578693,1979,0529595647,patient_0182@anon.medviet.local,"19 Lê Làng, Quận JaneThành phố, 658888",Tim mạch,4.86,Quang Đức Phạm,24/04/2026
+3e3b1a40-ca05-43a2-a553-b15f1ea15b0f,Hà Văn Nguyễn,175058754737,2000,0522651027,patient_0183@anon.medviet.local,"31 Trần Khu, Quận JohnQuận, 420351",Tiểu đường,11.37,Hồng Mai,15/02/2026
+c9df301e-8ef0-4de1-bb4f-19725115d7ee,Chị Bảo Vũ,295995928315,1986,0713582266,patient_0184@anon.medviet.local,"9 Trần Số, Huyện JaneHuyện, 316351",Huyết áp cao,8.42,Chị Lan Vũ,29/03/2026
+8aa6b006-436a-4b9d-91c5-6a004bb13407,Bà Hải Trần,933323905613,1986,0317245844,patient_0185@anon.medviet.local,"2 John Dãy, Huyện JohnXã, 500329",Tiểu đường,7.23,Khoa Lê,08/05/2026
+f013a170-d5cf-4b4c-8b34-fc841111ee29,An Đức Trần,141897704100,1949,0377055661,patient_0186@anon.medviet.local,"6 Mai Ngõ, Quận JaneThành phố, 992176",Khỏe mạnh,3.96,Bà Hương Dương,12/03/2026
+e3f342a8-f030-4fd4-be54-898e8eda6433,Kim Phạm,500332743200,1971,0822434683,patient_0187@anon.medviet.local,"1 Jane Hẻm, JaneQuận, 342449",Huyết áp cao,9.77,Quý cô Chi Dương,02/02/2026
+66cc7376-8cca-4963-ae2e-77a4cadec379,Nhật Thế Lê,075613207989,1978,0533892352,patient_0188@anon.medviet.local,"8 Dương Ngõ, JaneXã, 517515",Khỏe mạnh,7.55,Quang Mai Bảo Hoàng,25/02/2026
+2294fa0a-8482-4c08-842c-65ad9883e9b1,Bà Ngọc Hoàng,638635952981,1965,0515443062,patient_0189@anon.medviet.local,"854 Lê Khu, Huyện JaneThị xã, 551443",Huyết áp cao,5.83,Trọng Trí Lê,19/03/2026
+bbf8da91-37a9-4824-aafa-4d5b91ae3d4c,Quý ông Khoa Hoàng,032832016118,2001,0563919996,patient_0190@anon.medviet.local,"29 Jane Đường, Thị xã JaneXã, 567047",Tim mạch,8.98,Cô Lâm Đặng,11/01/2026
+51beba8e-0a8a-4b94-863d-fcd64e0648d0,Cô An Dương,964353822078,1956,0558525234,patient_0191@anon.medviet.local,"303 John Ngõ, JohnXã, 902604",Huyết áp cao,10.98,Quý cô Vân Đặng,08/04/2026
+2160446e-b2a7-4475-8619-67736f3acf33,Cô Lan Phạm,266453714732,2001,0330519890,patient_0192@anon.medviet.local,"191 John Số, JaneHuyện, 537390",Khỏe mạnh,3.78,Huy Mai,08/05/2026
+2b54500d-4e08-4bb4-8509-d55806326b36,Hạnh Hoàng,275141124879,1955,0799415516,patient_0193@anon.medviet.local,"75 Dương Ngõ, Quận JohnHuyện, 485503",Tiểu đường,4.96,Ngọc Dương,02/04/2026
+bd717da3-3581-4632-94f5-df7005d2d205,Tú Mai Bảo Đặng,316906980750,1970,0833481386,patient_0194@anon.medviet.local,"80 Mai Đường, Thành phố JaneThị xã, 357670",Huyết áp cao,5.5,Cô Lan Mai,08/05/2026
+637e3f94-110c-4d92-8222-305df1f71605,Trọng Vũ,009021183014,1937,0597720309,patient_0195@anon.medviet.local,"27 Jane Làng, JohnQuận, 753328",Khỏe mạnh,5.27,Quý cô Thành Bùi,18/03/2026
+58c69158-04b4-4ac9-a831-7f0dbe9063fb,Lâm Nguyễn,903904762406,2003,0860924076,patient_0196@anon.medviet.local,"871 Đặng Số, JaneHuyện, 557366",Tim mạch,4.27,Bác Thành Lê,16/04/2026
+2379c05f-a708-4280-b4ee-0b6721bbd183,Châu Bảo Vũ,846045610605,1953,0708264845,patient_0197@anon.medviet.local,"03 Vũ Dãy, Thị xã JohnThành phố, 743169",Tiểu đường,8.69,Ông Nam Bùi,21/01/2026
+c32fc21b-06b4-4d27-af4b-8be821acfdb5,Châu Đức Mai,993723125770,1966,0752673393,patient_0198@anon.medviet.local,"4 Đặng Ngõ, JaneThành phố, 506577",Tiểu đường,9.95,Anh Khoa Trần,03/01/2026
+69bd40d8-f340-4dd3-8515-75b9ece9504b,Anh Huy Đặng,835257537476,1944,0766980347,patient_0199@anon.medviet.local,"68 Lê Hẻm, JohnThành phố, 364915",Tiểu đường,5.27,Bảo Hoàng,11/04/2026

@@ -1,0 +1,5 @@
+﻿ml_engineer_delete_production: false expected false
+admin_restricted_export_outside_vn: false expected false
+admin_restricted_export_vn: true expected true
+data_analyst_metrics: true expected true
+intern_production: false expected false

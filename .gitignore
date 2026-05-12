@@ -1,0 +1,10 @@
+.env
+pycache/
+__pycache__/
+**/__pycache__/
+**/.pytest_cache/
+**/data/raw/
+.vault_key
+**/.vault_key
+.claude/
+.tools/

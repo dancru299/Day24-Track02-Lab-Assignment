@@ -1,0 +1,5 @@
+🐷🔑🐷  TruffleHog. Unearth your secrets. 🐷🔑🐷
+
+2026-05-12T16:41:18+07:00	info-0	trufflehog	running source	{"source_manager_worker_id": "XpYTC", "with_units": true}
+2026-05-12T16:41:18+07:00	info-0	trufflehog	scanning repo	{"source_manager_worker_id": "XpYTC", "unit_kind": "dir", "unit": "C:\\Users\\nguye\\AppData\\Local\\Temp\\trufflehog-20840-2386729453", "repo": "file://D:/AIThucChien/BaiTapLab/Demo/TRACK2/Day24-Track02-Lab-Assignment"}
+2026-05-12T16:41:19+07:00	info-0	trufflehog	finished scanning	{"chunks": 19, "bytes": 54904, "verified_secrets": 0, "unverified_secrets": 0, "scan_duration": "429.3771ms", "trufflehog_version": "3.95.3", "verification_caching": {"Hits":0,"Misses":0,"HitsWasted":0,"AttemptsSaved":0,"VerificationTimeSpentMS":0}}
